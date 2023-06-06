@@ -1,6 +1,6 @@
 # Buscador de CEP
 
-Este é um projeto de buscador de CEP criado pela Talita Salles utilizando a API do ViaCEP. O objetivo deste projeto é permitir que os usuários pesquisem facilmente o CEP de uma determinada localidade no Brasil.
+Este é um projeto de buscador de CEP utilizando a API do ViaCEP. O objetivo deste projeto é permitir que os usuários pesquisem facilmente o CEP de uma determinada localidade no Brasil.
 
 ## Como utilizar
 
